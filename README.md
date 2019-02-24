@@ -54,8 +54,6 @@
 
 # Arrays
 
-![images/arrays](images/arrays.png)
-
 ![images/arrays1](images/arrays1.png)
 
 ![images/arrays2](images/arrays2.png)
