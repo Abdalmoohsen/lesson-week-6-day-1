@@ -95,7 +95,7 @@
 
 ![images/loops1](images/loops1.png)
 
-![images/loops1a](images/loops1a.png)
+![images/loops1a](https://media.giphy.com/media/zzDDW60OOPm1y/giphy.gif)
 
 ![images/loops2](images/loops2.png)
 
